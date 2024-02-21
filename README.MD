@@ -22,4 +22,6 @@
         <img src="captures/instanciationdynamiqueres.png">
     <h5>c. En utilisant le Framework Spring</h5>
     <h6>- Version XML</h6>
+    <img src="captures/applicationContext.png">
+    <img src="captures/presSpringXML.png">
     <h6>- Version annotations</h6>
