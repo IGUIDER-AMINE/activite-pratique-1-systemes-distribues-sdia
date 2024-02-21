@@ -1,8 +1,10 @@
 <h2>Injection des dépendances et Inversion de controle</h2>
-<!--<img src="captures/1.png">-->
+
 <h3>Partie 1 : </h3>
 <h4>1. Créer l'interface IDao avec une méthode getDate</h4>
+<img src="captures/IDao.png">
 <h4>2. Créer une implémentation de cette interface</h4>
+<img src="captures/DaoImpl.png">
 <h4>3. Créer l'interface IMetier avec une méthode calcul</h4>
 <h4>4. Créer une implémentation de cette interface en utilisant le couplage faible</h4>
 <h4>5. Faire l'injection des dépendances :</h4>
