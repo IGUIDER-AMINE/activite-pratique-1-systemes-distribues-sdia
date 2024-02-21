@@ -11,7 +11,15 @@
 <img src="captures/MetierImpl.png">
 <h4>5. Faire l'injection des dépendances :</h4>
     <h5>a. Par instanciation statique</h5>
+        <img src="captures/instanciationstatique.png">
+        <h6>Résultat :</h6>
+        <img src="captures/instanciationstatiqueres.png">
     <h5>b. Par instanciation dynamique</h5>
+        <h6>Config file :</h6>
+        <img src="captures/configfile.png">
+        <img src="captures/instanciationdynamique.png">
+        <h6>Résultat :</h6>
+        <img src="captures/instanciationdynamiqueres.png">
     <h5>c. En utilisant le Framework Spring</h5>
     <h6>- Version XML</h6>
     <h6>- Version annotations</h6>
