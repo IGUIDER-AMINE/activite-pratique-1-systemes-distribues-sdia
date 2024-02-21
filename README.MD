@@ -24,4 +24,6 @@
     <h6>- Version XML</h6>
     <img src="captures/applicationContext.png">
     <img src="captures/presSpringXML.png">
+<h6>Résultat :</h6>
+<img src="captures/presSpringXMLres.png">
     <h6>- Version annotations</h6>
